@@ -1,0 +1,16 @@
+{
+  "player_tokens": 500,
+  "career_wins": 2,
+  "current_rank": "Rookie",
+  "garage_slots": [
+    {
+      "slot": 1,
+      "name": "Mad Marauder",
+      "wins": 2,
+      "engine_stress": 0,
+      "base_vulnerability": "High Animal Risk",
+      "upgrades": ["Predictive ECU"]
+    }
+  ],
+  "current_engine_stress_level": 0
+}
